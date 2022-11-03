@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1659610396 source:c:\users\rabie\desktop\desktop\shahd\finalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"school.h"
+
+1659610435 source:c:\users\rabie\desktop\desktop\shahd\finalproject\school.c
+	"school.h"
+
+1659579853 c:\users\rabie\desktop\desktop\shahd\finalproject\school.h
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
